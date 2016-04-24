@@ -15,13 +15,13 @@ p, div {
   margin: 5px 0;
   text-align: center;
   background-color: #FCFCFC;
-  <!-- background: url(clean_textile.png); repeat 0 0; -->
+  <!-- background: url(../img/clean_textile.png); repeat 0 0; -->
 }
 
 body {
   padding-top: 10px;
   padding-bottom: 20px;
-  background: url(lightpaperfibers.png) repeat 0 0;
+  background: url(../img/lightpaperfibers.png) repeat 0 0;
 }
 
 .hidden {
