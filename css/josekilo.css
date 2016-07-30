@@ -6,10 +6,20 @@ h1, h2, h3, h4, h5, h6 {
   color: #3C948B !important;
 }
 
+a {
+  color: #3C948B;
+}
+
 p, div {
   font-family: 'PT Sans', Helvetica, Arial, sans-serif;
   font-size: 18px;
   line-height: 1.428;
+}
+
+.img-thumbnail {
+  background: #78A;
+  padding: 2px;
+  border: 0;
 }
 
 .jumbotron {
