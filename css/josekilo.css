@@ -42,7 +42,7 @@ a {
 }
 
 .hidden {
-  display: hidden;
+  display: none;
 }
 
 .row {
